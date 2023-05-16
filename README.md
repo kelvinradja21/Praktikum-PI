@@ -1,4 +1,11 @@
 # Dokumentasi WAIFULIB API
+### Anggota Kelompok 
+- Muhammad Iqbal Manalu  - 201402011
+- Hizkia Winter  - 201402044
+- Kelvin Nathanael Lumbanraja  - 201402050
+- Muhammad Ridwan Rizki  - 201402059
+- Reinhart Dominggo Sahatmartua Lumbantoruan  - 201402077
+
 ## 1. Pendahuluan
 Waifulib adalah API ramah pengguna yang dirancang untuk memberikan akses ke database / arsip besar yang menyimpan banyak data (identitas) dan gambar dari Waifu [ Waifu mengacu pada karakter fiksi yang umumnya ditemukan di anime atau bentuk media terkait yang disukai oleh seseorang dengan rasa kasih sayang yang sangat mendalam. ].
 ![Picture1](https://github.com/kelvinradja21/Praktikum-PI/assets/85007577/d39bd650-c229-4afb-867e-17f8849814bc)
