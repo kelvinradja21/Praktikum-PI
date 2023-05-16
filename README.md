@@ -9,6 +9,7 @@
 ## 1. Pendahuluan
 Waifulib adalah API ramah pengguna yang dirancang untuk memberikan akses ke database / arsip besar yang menyimpan banyak data (identitas) dan gambar dari Waifu [ Waifu mengacu pada karakter fiksi yang umumnya ditemukan di anime atau bentuk media terkait yang disukai oleh seseorang dengan rasa kasih sayang yang sangat mendalam. ].
 ![Picture1](https://github.com/kelvinradja21/Praktikum-PI/assets/85007577/d39bd650-c229-4afb-867e-17f8849814bc)
+Figure 1. *Akari Watanabe adalah salah satu contoh waifu yang banyak digemari oleh orang.*
 
 ## 2. API Base URL
 http://127.0.0.1:5000/
